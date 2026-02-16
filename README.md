@@ -2,3 +2,6 @@
 Cardiovascular disease (CVD) is the leading cause of death in women worldwide. CVD in women is often misdiagnosed and overlooked due to varying heart disease symptoms in women compared to men, underrepresentation in clinical trials, and dismissal of symptoms by doctors (World Heart Federation). These consequences not only lead to decreased quality of life for women with CVD, but have resulted in higher mortality rates, longer stays in the hospital, and decreased trust in the healthcare system from minority communities.
 
 Learning how to better understand symptoms of CVD in women given a set of diagnostics may provide physicians and healthcare providers a more comprehensive look at heart disease. Using a classification model to predict severity of CVD risk in a patient, with emphasis on female patients, provides insight on the risks experienced by women with regards to cardiovascular disease.
+
+# Install Packages and Dependencies
+To install all packages, use *pip install -r requirements.txt* in the Command Prompt.
